@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "O:\\Для OvodBox\\Git\\C#5\\C-dz5\\task34\\task34.csproj": {}
+  },
+  "projects": {
+    "O:\\Для OvodBox\\Git\\C#5\\C-dz5\\task34\\task34.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "O:\\Для OvodBox\\Git\\C#5\\C-dz5\\task34\\task34.csproj",
+        "projectName": "task34",
+        "projectPath": "O:\\Для OvodBox\\Git\\C#5\\C-dz5\\task34\\task34.csproj",
+        "packagesPath": "C:\\Users\\Ovod2013\\.nuget\\packages\\",
+        "outputPath": "O:\\Для OvodBox\\Git\\C#5\\C-dz5\\task34\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ovod2013\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
