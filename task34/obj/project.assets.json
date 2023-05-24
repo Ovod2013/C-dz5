@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Ovod\\.nuget\\packages\\": {}
+    "C:\\Users\\Ovod2013\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ovod\\5\\C-dz5\\task34\\task34.csproj",
+      "projectUniqueName": "C:\\Users\\Ovod2013\\5_1\\C-dz5\\task34\\task34.csproj",
       "projectName": "task34",
-      "projectPath": "C:\\Users\\Ovod\\5\\C-dz5\\task34\\task34.csproj",
-      "packagesPath": "C:\\Users\\Ovod\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ovod\\5\\C-dz5\\task34\\obj\\",
+      "projectPath": "C:\\Users\\Ovod2013\\5_1\\C-dz5\\task34\\task34.csproj",
+      "packagesPath": "C:\\Users\\Ovod2013\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ovod2013\\5_1\\C-dz5\\task34\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ovod\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Ovod2013\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

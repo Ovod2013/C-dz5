@@ -4,7 +4,19 @@
 // чётных чисел в массиве.
 // [345, 897, 568, 234] -> 2
 
-//объявление метода с вводом длины "size" массива и границ значений
+//Определение массива array, вызов метода Massiv с 
+//переданными ему длиной массива 4, минимальным 
+//значением от 0 (0 входит в диапазон), максимальным 
+//значением до 1000 (1000 не входит в диапазон) и 
+//присвоение элементам массива переменной array
+//значений элементов массива Massiv
+
+int[] array = Massiv(4,0,1000);
+//Вызов метода SummaChetnyx и передача ему массива array
+SummaChetnyx(array);
+
+//объявление метода Massiv с вводом длины "size" массива и 
+//границ значений minValie  maxValie
 int[] Massiv(int size, int minValie, int maxValie) 
 {
     //определение массива целых чисел
@@ -14,30 +26,44 @@ int[] Massiv(int size, int minValie, int maxValie)
     num = new int[size];
     //заполнение массива в цикле случайными числами
     //в диапазоне от minValie до maxValie
+Console.WriteLine("Массив положительных трёхзначных чисел, заданных случайном образом:");
+
     for (int i=0; i<size; i++)
     {
         num[i] = new Random().Next(minValie, maxValie+1);
-        Console.WriteLine($"{num[i]}");
+        Console.Write($"{num[i]}");
+        Console.Write(" ");
     }
-    return num;
+    return num;// Возврат массива
 }
 
-int[] array = Massiv(4,0,1000);
 
-Console.WriteLine($" ");
+//Объявление метода SummaChetnyx определения чётного числа, 
+//вычисления суммы чётных чисел
+//и выдача результата на консоль
+// Метод ничего не выдаёт назал, только на консоль
+void SummaChetnyx(int[] t)
+{
+     int summaChetnyx=0;//Определение переменной summaChetnyx.
+     //Присвоение начального значения "0"
 
+//Хитрый цикл foreach, который пробегает все 
+//элементы конкретного массива. 
+//Здесь массив array.
+//Значения элементов массива присваиваются 
+//переменной el, с которой можно производить какие-то действия
 foreach (int el in array)
 {
-Console.WriteLine($"{el}");
-}
-
-
-
-Console.WriteLine("Введите число");
-int number = int.Parse(Console.ReadLine()!);
-int ost = number%10;
-if (ost == 0 || ost == 2 || ost == 4 || ost == 6 || ost == 8)
+    int ost = el%10;
+    if (ost == 0 || ost == 2 || ost == 4 || ost == 6 || ost == 8)
 {
-    Console.WriteLine("Число чётное");
+    summaChetnyx+=1;
+    
 }
-else Console.WriteLine("Число нечётное");
+    else summaChetnyx+=0;
+}
+
+Console.WriteLine();
+if (summaChetnyx == 0) Console.WriteLine($"Чётных чисел нет");
+else Console.WriteLine($"Сумма чётных чисел = {summaChetnyx}");
+}
