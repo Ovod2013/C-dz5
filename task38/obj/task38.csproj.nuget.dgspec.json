@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "O:\\Для OvodBox\\Git\\C#5\\C-dz5\\task38\\task38.csproj": {}
+    "C:\\Users\\Ovod2013\\5_1\\C-dz5\\task38\\task38.csproj": {}
   },
   "projects": {
-    "O:\\Для OvodBox\\Git\\C#5\\C-dz5\\task38\\task38.csproj": {
+    "C:\\Users\\Ovod2013\\5_1\\C-dz5\\task38\\task38.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "O:\\Для OvodBox\\Git\\C#5\\C-dz5\\task38\\task38.csproj",
+        "projectUniqueName": "C:\\Users\\Ovod2013\\5_1\\C-dz5\\task38\\task38.csproj",
         "projectName": "task38",
-        "projectPath": "O:\\Для OvodBox\\Git\\C#5\\C-dz5\\task38\\task38.csproj",
+        "projectPath": "C:\\Users\\Ovod2013\\5_1\\C-dz5\\task38\\task38.csproj",
         "packagesPath": "C:\\Users\\Ovod2013\\.nuget\\packages\\",
-        "outputPath": "O:\\Для OvodBox\\Git\\C#5\\C-dz5\\task38\\obj\\",
+        "outputPath": "C:\\Users\\Ovod2013\\5_1\\C-dz5\\task38\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ovod2013\\AppData\\Roaming\\NuGet\\NuGet.Config"

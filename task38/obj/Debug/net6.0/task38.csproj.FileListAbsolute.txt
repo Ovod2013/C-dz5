@@ -1,0 +1,5 @@
+C:\Users\Ovod2013\5_1\C-dz5\task38\obj\Debug\net6.0\task38.csproj.AssemblyReference.cache
+C:\Users\Ovod2013\5_1\C-dz5\task38\obj\Debug\net6.0\task38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ovod2013\5_1\C-dz5\task38\obj\Debug\net6.0\task38.AssemblyInfoInputs.cache
+C:\Users\Ovod2013\5_1\C-dz5\task38\obj\Debug\net6.0\task38.AssemblyInfo.cs
+C:\Users\Ovod2013\5_1\C-dz5\task38\obj\Debug\net6.0\task38.csproj.CoreCompileInputs.cache
