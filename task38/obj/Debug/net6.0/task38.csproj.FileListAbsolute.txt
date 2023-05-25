@@ -3,3 +3,13 @@ C:\Users\Ovod2013\5_1\C-dz5\task38\obj\Debug\net6.0\task38.GeneratedMSBuildEdito
 C:\Users\Ovod2013\5_1\C-dz5\task38\obj\Debug\net6.0\task38.AssemblyInfoInputs.cache
 C:\Users\Ovod2013\5_1\C-dz5\task38\obj\Debug\net6.0\task38.AssemblyInfo.cs
 C:\Users\Ovod2013\5_1\C-dz5\task38\obj\Debug\net6.0\task38.csproj.CoreCompileInputs.cache
+C:\Users\Ovod2013\5_1\C-dz5\task38\bin\Debug\net6.0\task38.exe
+C:\Users\Ovod2013\5_1\C-dz5\task38\bin\Debug\net6.0\task38.deps.json
+C:\Users\Ovod2013\5_1\C-dz5\task38\bin\Debug\net6.0\task38.runtimeconfig.json
+C:\Users\Ovod2013\5_1\C-dz5\task38\bin\Debug\net6.0\task38.dll
+C:\Users\Ovod2013\5_1\C-dz5\task38\bin\Debug\net6.0\task38.pdb
+C:\Users\Ovod2013\5_1\C-dz5\task38\obj\Debug\net6.0\task38.dll
+C:\Users\Ovod2013\5_1\C-dz5\task38\obj\Debug\net6.0\refint\task38.dll
+C:\Users\Ovod2013\5_1\C-dz5\task38\obj\Debug\net6.0\task38.pdb
+C:\Users\Ovod2013\5_1\C-dz5\task38\obj\Debug\net6.0\task38.genruntimeconfig.cache
+C:\Users\Ovod2013\5_1\C-dz5\task38\obj\Debug\net6.0\ref\task38.dll
