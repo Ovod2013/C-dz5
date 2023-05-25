@@ -1,0 +1,15 @@
+C:\Users\Ovod2013\5_1\C-dz5\task38_1\bin\Debug\net6.0\task38_1.exe
+C:\Users\Ovod2013\5_1\C-dz5\task38_1\bin\Debug\net6.0\task38_1.deps.json
+C:\Users\Ovod2013\5_1\C-dz5\task38_1\bin\Debug\net6.0\task38_1.runtimeconfig.json
+C:\Users\Ovod2013\5_1\C-dz5\task38_1\bin\Debug\net6.0\task38_1.dll
+C:\Users\Ovod2013\5_1\C-dz5\task38_1\bin\Debug\net6.0\task38_1.pdb
+C:\Users\Ovod2013\5_1\C-dz5\task38_1\obj\Debug\net6.0\task38_1.csproj.AssemblyReference.cache
+C:\Users\Ovod2013\5_1\C-dz5\task38_1\obj\Debug\net6.0\task38_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ovod2013\5_1\C-dz5\task38_1\obj\Debug\net6.0\task38_1.AssemblyInfoInputs.cache
+C:\Users\Ovod2013\5_1\C-dz5\task38_1\obj\Debug\net6.0\task38_1.AssemblyInfo.cs
+C:\Users\Ovod2013\5_1\C-dz5\task38_1\obj\Debug\net6.0\task38_1.csproj.CoreCompileInputs.cache
+C:\Users\Ovod2013\5_1\C-dz5\task38_1\obj\Debug\net6.0\task38_1.dll
+C:\Users\Ovod2013\5_1\C-dz5\task38_1\obj\Debug\net6.0\refint\task38_1.dll
+C:\Users\Ovod2013\5_1\C-dz5\task38_1\obj\Debug\net6.0\task38_1.pdb
+C:\Users\Ovod2013\5_1\C-dz5\task38_1\obj\Debug\net6.0\task38_1.genruntimeconfig.cache
+C:\Users\Ovod2013\5_1\C-dz5\task38_1\obj\Debug\net6.0\ref\task38_1.dll

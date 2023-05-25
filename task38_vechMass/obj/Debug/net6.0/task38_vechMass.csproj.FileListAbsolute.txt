@@ -1,0 +1,15 @@
+C:\Users\Ovod2013\5_1\C-dz5\task38_vechMass\obj\Debug\net6.0\task38_vechMass.csproj.AssemblyReference.cache
+C:\Users\Ovod2013\5_1\C-dz5\task38_vechMass\obj\Debug\net6.0\task38_vechMass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ovod2013\5_1\C-dz5\task38_vechMass\obj\Debug\net6.0\task38_vechMass.AssemblyInfoInputs.cache
+C:\Users\Ovod2013\5_1\C-dz5\task38_vechMass\obj\Debug\net6.0\task38_vechMass.AssemblyInfo.cs
+C:\Users\Ovod2013\5_1\C-dz5\task38_vechMass\obj\Debug\net6.0\task38_vechMass.csproj.CoreCompileInputs.cache
+C:\Users\Ovod2013\5_1\C-dz5\task38_vechMass\bin\Debug\net6.0\task38_vechMass.exe
+C:\Users\Ovod2013\5_1\C-dz5\task38_vechMass\bin\Debug\net6.0\task38_vechMass.deps.json
+C:\Users\Ovod2013\5_1\C-dz5\task38_vechMass\bin\Debug\net6.0\task38_vechMass.runtimeconfig.json
+C:\Users\Ovod2013\5_1\C-dz5\task38_vechMass\bin\Debug\net6.0\task38_vechMass.dll
+C:\Users\Ovod2013\5_1\C-dz5\task38_vechMass\bin\Debug\net6.0\task38_vechMass.pdb
+C:\Users\Ovod2013\5_1\C-dz5\task38_vechMass\obj\Debug\net6.0\task38_vechMass.dll
+C:\Users\Ovod2013\5_1\C-dz5\task38_vechMass\obj\Debug\net6.0\refint\task38_vechMass.dll
+C:\Users\Ovod2013\5_1\C-dz5\task38_vechMass\obj\Debug\net6.0\task38_vechMass.pdb
+C:\Users\Ovod2013\5_1\C-dz5\task38_vechMass\obj\Debug\net6.0\task38_vechMass.genruntimeconfig.cache
+C:\Users\Ovod2013\5_1\C-dz5\task38_vechMass\obj\Debug\net6.0\ref\task38_vechMass.dll
